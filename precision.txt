@@ -1,0 +1,19 @@
+1: t = 0.3, ka=kb=kc=1
+    recall: 0.93
+    precision: 0.145 
+
+2: t = 0.1; ka = 1; kb = 1; kc = 1
+    recall: 1.0
+    precision: 0.145
+
+3: t = 0.3; ka = 2; kb = 2; kc = 3
+    recall: 0.86
+    precision: 0.145
+
+4: t = 0.1; ka = 2; kb = 2; kc = 3
+    recall: 0.98
+    precision: 0.145
+
+5: t = 0.3; ka = 2; kb = 2; kc = 3
+    recall: 0.98
+    precision: 0.145

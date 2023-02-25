@@ -1,0 +1,25 @@
+CONTENT BASED:
+similarity approach - najjednostavniji <<< naci pribliznost u vektorskom prostoru * kvadratna/mean/eksponencijalna razlika | ili funckije aktivacije
+classification model - najprecizniji, komplikovano?
+
+
+pattern mining and matching - common patterns, implikacije
+    grupisanje i slanje upita {a1, a2} => b1
+    Apriori FP-Growth
+
+    > NLP?
+
+
+
+COLABORATIVE FILTERING:
+    cold start
+    ne treba dodatna analiza kontenta
+    faktorizacija matrice
+    svd, nmf, biblioteke
+
+ZADATAK:
+    ne smije nista da fali
+
+
+
+. sifra zanimanja
